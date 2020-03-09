@@ -17,6 +17,6 @@ Teste do Processo seletivo para a empresa Data Sprints de uma arquitetura para a
 
 08 - Construção do dashboard utilizando Power BI conectado no Amazon Redshift via Direct query para não sobrecarregar a memória do desktop.
 
-09 - Construção de algoritmo em Python via Jupyte notebook utilizando para análise não supervisionada e clusterização IDH x Nota Média dos candidados no Enem Sklearn e Pandas.
+09 - Construção de algoritmo em Python via Jupyter notebook utilizando para análise não supervisionada e clusterização IDH x Nota Média dos candidados no Enem Sklearn e Pandas.
 
 10 - Modelagem de proposta de MDM Like(sobre mdm data architecture, overlap rules, golden record e afins poderia ter trazido uma proposta by the book, entretanto preferi trazer uma arquitetura análoga a solução ad hoc na qual estive envolvido recentemente e que de certa forma atingiu os objetivos propostos por um MDM).
