@@ -1,22 +1,22 @@
 # Data-Sprints-Teste
-Teste do Processo seletivo para a empresa Data Sprints de uma arquitetura para análise de dados do Enem 2017. AWS, Amazon S3, Amazon Redshift, SQL, Power BI, Python e Sklearn, Modelagem Dimensional, DW, MDM.
+Teste do Processo seletivo para a empresa Data Sprints de uma arquitetura para análise de dados do Enem 2017. AWS, Amazon S3, Amazon Redshift, SQL, Power BI, Python, Pandas e Sklearn, Modelagem Dimensional, DW, MDM.
 
-Análise do problema.
+01 - Análise do problema.
 
-Definição da arquitetura de infraestura em cloud optando por utilizar Amazon S3 para dados crus e Amazon Redshift para dados estruturados.
+02 - Definição da arquitetura de infraestura em cloud optando por utilizar Amazon S3 para dados crus e Amazon Redshift para dados estruturados.
 
-Upload do dados para Amazon S3.
+03 - Upload do dados para Amazon S3.
 
-Transferência dos do Amazon S3 para o Amazon Redshift.
+04 - Transferência dos dados do Amazon S3 para o Amazon Redshift.
 
-Análise exploratória dos dados no Amazon Redshift por meio SQL Workbench/J.
+05 - Análise exploratória dos dados no Amazon Redshift por meio SQL Workbench/J.
 
-Modelagem dimensional dos dados necessários para as análises solicitadas.
+06 - Modelagem dimensional dos dados necessários para as análises solicitadas.
 
-Desenvolvimento do ETL (DDL + DML) em SQL.
+07 - Desenvolvimento do ETL (DDL + DML) em SQL.
 
-Construção do dashboard utilizando Power BI conectado no Amazon Redshift via Direct query para não sobrecarregar a memória do desktop.
+08 - Construção do dashboard utilizando Power BI conectado no Amazon Redshift via Direct query para não sobrecarregar a memória do desktop.
 
-Construção de algoritmo em Python via Jupyte notebook utilizando para análise não supervisionada e clusterização IDH x Nota Média dos candidados no Enem Sklearn e Pandas.
+09 - Construção de algoritmo em Python via Jupyte notebook utilizando para análise não supervisionada e clusterização IDH x Nota Média dos candidados no Enem Sklearn e Pandas.
 
-Modelagem de proposta de MDM Like(sobre mdm data architecture, overlap rules, golden record e afins poderia ter trazido uma proposta by the book, entretanto preferi trazer uma arquitetura análoga a solução ad hoc na qual estive envolvido recentemente e que de certa forma atingiu os objetivos propostos por um MDM).
+10 - Modelagem de proposta de MDM Like(sobre mdm data architecture, overlap rules, golden record e afins poderia ter trazido uma proposta by the book, entretanto preferi trazer uma arquitetura análoga a solução ad hoc na qual estive envolvido recentemente e que de certa forma atingiu os objetivos propostos por um MDM).
