@@ -19,4 +19,4 @@ Construção do dashboard utilizando Power BI conectado no Amazon Redshift via D
 
 Construção de algoritmo em Python via Jupyte notebook utilizando para análise não supervisionada e clusterização IDH x Nota Média dos candidados no Enem Sklearn e Pandas.
 
-Modelagem de proposta de MDM Like.
+Modelagem de proposta de MDM Like(sobre mdm data architecture, overlap rules, golden record e afins poderia ter trazido uma proposta by the book, entretanto preferi trazer uma arquitetura análoga a solução ad hoc na qual estive envolvido recentemente e que de certa forma atingiu os objetivos propostos por um MDM).
