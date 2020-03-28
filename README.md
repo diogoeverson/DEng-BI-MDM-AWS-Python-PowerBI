@@ -1,5 +1,5 @@
-# Data-Sprints-Teste
-Teste do Processo seletivo para a empresa Data Sprints de uma arquitetura para análise de dados do Enem 2017. AWS, Amazon S3, Amazon Redshift, SQL, Power BI, Python, Pandas e Sklearn, Modelagem Dimensional, DW, MDM.
+# DEng-BI-MDM-AWS-Python-PowerBI
+Experimento de uma arquitetura para análise de dados do Enem 2017. AWS, Amazon S3, Amazon Redshift, SQL, Power BI, Python, Pandas e Sklearn, Modelagem Dimensional, DW, MDM.
 
 01 - Análise do problema.
 
